@@ -1,0 +1,8 @@
+G:\Workstation\Git_Hub_Projects\Algorithms\Problem Solving\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.deps.json
+G:\Workstation\Git_Hub_Projects\Algorithms\Problem Solving\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.dll
+G:\Workstation\Git_Hub_Projects\Algorithms\Problem Solving\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.pdb
+G:\Workstation\Git_Hub_Projects\Algorithms\Problem Solving\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.AssemblyInfoInputs.cache
+G:\Workstation\Git_Hub_Projects\Algorithms\Problem Solving\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.AssemblyInfo.cs
+G:\Workstation\Git_Hub_Projects\Algorithms\Problem Solving\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.csproj.CoreCompileInputs.cache
+G:\Workstation\Git_Hub_Projects\Algorithms\Problem Solving\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.dll
+G:\Workstation\Git_Hub_Projects\Algorithms\Problem Solving\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.pdb

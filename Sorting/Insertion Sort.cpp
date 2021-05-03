@@ -1,30 +1,20 @@
 #include <iostream>
-#include <climits>
-#include <cstdio>
 using namespace std;
-int main ()
+
+int main()
 {
-    int n,c=0;
-    cout<<"Enter Number of Elements:"<<endl;
-    cin>>n;
-    int array[n+2];
-    cout<<"Enter Elements:"<<endl;
-    for(int i=1;i<=n;i++)
-        cin>>array[i];
-    array[0]=INT_MIN;
-    for(int j=2;j<=n;j++)
+    int a[10] = {9,5,1,2,3,4,7,8,0,6};
+    for(int i=0;i<10;i++)
     {
-        int i=j-1;
-        int t = array[j];
-        while(t<array[i])
+        int valueToInsert = a[i];
+        int j = i;
+        while(j>0 && valueToInsert<a[j-1])
         {
-            array[i+1]=array[i];
-            i--;
+            a[j] = a[j-1];
+            j--;
         }
-        array[i+1]=t;
+        a[j] = valueToInsert;
     }
-    cout<<"Sorted Array:"<<endl;
-    for(int i=1;i<=n;i++)
-        cout<<array[i]<<" ";
+    for(int i=0;i<10;i++) cout<<a[i]<<" ";
     return 0;
 }
